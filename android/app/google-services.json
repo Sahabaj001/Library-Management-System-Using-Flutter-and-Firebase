@@ -7,15 +7,15 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:326212357933:android:83fd44026357d3158bcda4",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.example.library01"
+          "package_name": ""
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD4TnKcI-pGQeg0phpTlrX5SYKRG0CT7Hs"
+          "current_key": ""
         }
       ],
       "services": {
